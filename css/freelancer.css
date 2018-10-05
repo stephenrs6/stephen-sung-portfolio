@@ -61,6 +61,40 @@ hr.star-dark:after {
   background-color: white;
 }
 
+hr.star-dark.silver:after {
+  color: #2C3E50;
+  background-color: #ecf6ff  ;
+}
+
+.bonus {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+ul {
+  /* float: right;
+  overflow: hidden; */
+  font-size: 1.25rem;
+  text-align: left;
+}
+.colored {
+  position: relative;
+  display: inline-block;
+  transition: transform .5s;
+}
+
+.colored:hover {
+  -webkit-transform: scale(1.4);
+  -moz-transform: scale(1.4);
+  -ms-transform: scale(1.4);
+  -o-transform: scale(1.4);
+}
+
+.icon-div {
+  font-size: 45px;
+}
+
 section {
   padding: 6rem 0;
 }
@@ -87,16 +121,15 @@ section h2 {
   height: 3.25rem;
   font-size: 1.25rem;
   line-height: 2rem;
-  color: #2c3e50;
-  border-color: #2c3e50;
+  color: #ffffff;
+  border-color: #ffffff;
 }
 
 .btn-social:hover {
-  opacity:.5;
-  transition: opacity .2s ease-out;
-  -moz-transition: opacity .2s ease-out;
-  -webkit-transition: opacity .2s ease-out;
-  -o-transition: opacity .2s ease-out;
+  transition: transform .5s;
+  -moz-transition: opacity .5s;
+  -webkit-transition: opacity .5s;
+  -o-transition: opacity .5s;
 }
 
 .scroll-to-top {
@@ -365,6 +398,9 @@ a:focus, a:hover, a:active {
   background-color: #ffffff !important;
 }
 
+.bg-primary-3 {
+  background-color: #ecf6ff  !important;
+}
 
 .bg-secondary {
   background-color: #2C3E50 !important;
@@ -396,4 +432,9 @@ a:focus, a:hover, a:active {
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
   background-color: #1a252f;
   border-color: #1a252f;
+}
+
+.icon-div {
+  width: 50%;
+  margin: auto;
 }
