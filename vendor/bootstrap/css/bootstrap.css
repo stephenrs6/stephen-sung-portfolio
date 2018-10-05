@@ -8858,7 +8858,7 @@ button.bg-dark:focus {
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #0062cc !important;
+  color: #0062cc;
 }
 
 .text-secondary {

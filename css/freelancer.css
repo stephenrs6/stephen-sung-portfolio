@@ -84,6 +84,11 @@ ul {
   transition: transform .5s;
 }
 
+.icon-div {
+  width: 70%;
+  margin: auto;
+}
+
 .colored:hover {
   -webkit-transform: scale(1.4);
   -moz-transform: scale(1.4);
@@ -92,7 +97,7 @@ ul {
 }
 
 .icon-div {
-  font-size: 45px;
+  font-size: 65px;
 }
 
 section {
@@ -313,6 +318,14 @@ header.masthead h2 {
     font-size: 3rem;
   }
 }
+@media (max-width: 768px) { 
+.bonus{
+    width: 90%;
+  }
+  .icon-div{
+    width: 80%;
+  }
+}
 
 .floating-label-form-group {
   position: relative;
@@ -434,7 +447,12 @@ a:focus, a:hover, a:active {
   border-color: #1a252f;
 }
 
-.icon-div {
-  width: 50%;
+.code-links {
   margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+.badge-light {
+  font-size: .5rem;
 }
