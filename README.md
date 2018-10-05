@@ -72,22 +72,3 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
-
-
-devicons: 
-                <i class="devicon-angularjs-plain colored"></i>                
-                <i class="devicon-git-plain colored"></i>
-                <i class="devicon-html5-plain-wordmark colored"></i>
-                <i class="devicon-laravel-plain-wordmark colored"></i>
-                <i class="devicon-javascript-plain colored"></i>
-                <i class="devicon-nodejs-plain-wordmark colored"></i>
-                <i class="devicon-mongodb-plain-wordmark colored"></i>
-                <i class="devicon-vuejs-plain-wordmark colored"></i>
-                <i class="devicon-react-original-wordmark colored"></i>
-                <i class="devicon-photoshop-plain colored"></i>
-                <i class="devicon-css3-plain-wordmark colored"></i>
-                <i class="devicon-jquery-plain-wordmark colored"></i>
-                <i class="devicon-mysql-plain-wordmark colored"></i>
-                <i class="devicon-php-plain colored"></i>
-                <i class="devicon-heroku-plain-wordmark colored"></i>
-                <i class="devicon-bootstrap-plain-wordmark colored"></i>
